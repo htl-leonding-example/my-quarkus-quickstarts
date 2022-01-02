@@ -50,3 +50,12 @@ oder curl
 Hello, HTL Leonding%       
 ```
 
+- Sources:
+  - https://levelup.gitconnected.com/fixing-cors-errors-with-angular-cli-proxy-e5e0ef143f85
+  - https://en.wikipedia.org/wiki/Cross-origin_resource_sharing
+  - https://quarkus.io/guides/http-reference#cors-filter
+
+
+## How to use in Angular
+
+https://github.com/htl-leonding-example/my-quarkus-quickstarts
