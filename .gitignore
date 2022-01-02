@@ -1,0 +1,22 @@
+#Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+
+# IntelliJ
+.idea
+*.ipr
+*.iml
+*.iws
+
+# Local environment
+.env
+
+# OSX
+.DS_Store
+
+# Visual Studio Code
+.vscode
+.factorypath
