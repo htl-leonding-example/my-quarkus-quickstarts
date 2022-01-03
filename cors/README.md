@@ -4,7 +4,7 @@ Will man dir CORS-Header in Quarkus verwenden, sind folgende Schritte durchzufü
 
 1. in der `application.properties` sind der CORS-Eintrag / die CORS-Einträge einzufügen
 
-    ```
+    ```properties
     quarkus.http.cors=true
     ```
 
@@ -69,6 +69,18 @@ Will man dir CORS-Header in Quarkus verwenden, sind folgende Schritte durchzufü
 ## How to use in Angular
 
 https://github.com/htl-leonding-example/my-quarkus-quickstarts
+
+- create a file `proxy.conf.json`
+
+    ````json
+      {
+        "/api": {
+          "target": "http://localhost:8080",
+          "secure": false,
+          "changeOrigin": true,
+        }
+      }
+    ````
 
 ## Troubleshooting
 
