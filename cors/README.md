@@ -68,8 +68,6 @@ Will man dir CORS-Header in Quarkus verwenden, sind folgende Schritte durchzufü
 
 ## How to use in Angular
 
-https://github.com/htl-leonding-example/my-quarkus-quickstarts
-
 - create a file `proxy.conf.json`
 
     ````json
@@ -81,6 +79,8 @@ https://github.com/htl-leonding-example/my-quarkus-quickstarts
         }
       }
     ````
+
+- source: [Fixing CORS errors with Angular CLI proxy](https://levelup.gitconnected.com/fixing-cors-errors-with-angular-cli-proxy-e5e0ef143f85)
 
 ## Troubleshooting
 
