@@ -1,6 +1,6 @@
 # cors Project
 
-Will man dir CORS-Header in Quarkus verwenden, sind folgende Schritte durchzuführen
+Will man CORS-Header in Quarkus verwenden, sind folgende Schritte durchzuführen:
 
 1. in der `application.properties` sind der CORS-Eintrag / die CORS-Einträge einzufügen
 
@@ -13,6 +13,7 @@ Will man dir CORS-Header in Quarkus verwenden, sind folgende Schritte durchzufü
     Hierzu kann man zB 
     curl -> `curl -H "Origin: http://localhost:8080" --verbose http://localhost:8080/hello` oder
     httpie -> `http -v :8080/hello Origin:http://localhost:8080`
+    graphical tools like postman, insomnia
 
     httpie
     ```shell
@@ -29,7 +30,7 @@ Will man dir CORS-Header in Quarkus verwenden, sind folgende Schritte durchzufü
     
     HTTP/1.1 200 OK
     Content-Type: text/plain;charset=UTF-8
-    access-control-allow-credentials: true
+    access-control-allow-credentials: false
     access-control-allow-origin: http://localhost:8080
     content-length: 19
     
@@ -52,7 +53,7 @@ Will man dir CORS-Header in Quarkus verwenden, sind folgende Schritte durchzufü
     * Mark bundle as not supporting multiuse
     < HTTP/1.1 200 OK
     < access-control-allow-origin: http://localhost:8080
-    < access-control-allow-credentials: true
+    < access-control-allow-credentials: false
     < Content-Type: text/plain;charset=UTF-8
     < content-length: 19
     < 
@@ -60,11 +61,76 @@ Will man dir CORS-Header in Quarkus verwenden, sind folgende Schritte durchzufü
     Hello, HTL Leonding%       
     ```
 
+    - insomnia
+        1. create a new collection
+        2. create an dew request
+
+    ![insomnia](images/cors-request-insomnia.png)
+
+
    - Sources:
      - https://levelup.gitconnected.com/fixing-cors-errors-with-angular-cli-proxy-e5e0ef143f85
      - https://en.wikipedia.org/wiki/Cross-origin_resource_sharing
      - https://quarkus.io/guides/http-reference#cors-filter
 
+3. Ggf. kann man noch weitere Einträge in der `application.properties` eintragen.
+
+    ````properties
+    quarkus.http.cors=true
+    quarkus.http.cors.headers=accept, origin, authorization, content-type, x-requested-with
+    quarkus.http.cors.methods=GET,POST,OPTIONS,PUT,PATCH,DELETE
+    quarkus.http.cors.access-control-allow-credentials=true
+    quarkus.http.cors.access-control-max-age=24H
+
+    ````
+    
+
+   - curl
+
+    ````shell
+     $ curl -H "Origin: http://localhost:8080" --verbose http://localhost:8080/hello
+    *   Trying ::1:8080...
+    * connect to ::1 port 8080 failed: Connection refused
+    *   Trying 127.0.0.1:8080...
+    * Connected to localhost (127.0.0.1) port 8080 (#0)
+    > GET /hello HTTP/1.1
+    > Host: localhost:8080
+    > User-Agent: curl/7.77.0
+    > Accept: */*
+    > Origin: http://localhost:8080
+    > 
+    * Mark bundle as not supporting multiuse
+    < HTTP/1.1 200 OK
+    < access-control-allow-origin: http://localhost:8080
+    < access-control-allow-credentials: true
+    < Content-Type: text/plain;charset=UTF-8
+    < content-length: 19
+    < 
+    * Connection #0 to host localhost left intact
+    Hello, HTL Leonding% 
+    ````
+
+   - httpie
+    ````shell
+     $ http -v :8080/hello Origin:http://localhost:8080
+    GET /hello HTTP/1.1
+    Accept: */*
+    Accept-Encoding: gzip, deflate
+    Connection: keep-alive
+    Host: localhost:8080
+    Origin: http://localhost:8080
+    User-Agent: HTTPie/2.6.0
+    
+    
+    
+    HTTP/1.1 200 OK
+    Content-Type: text/plain;charset=UTF-8
+    access-control-allow-credentials: true
+    access-control-allow-origin: http://localhost:8080
+    content-length: 19
+    
+    Hello, HTL Leonding
+    ````
 
 ## How to use in Angular
 
