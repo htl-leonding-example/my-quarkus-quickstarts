@@ -1,0 +1,147 @@
+-----------------------------234563727721923431121931855609
+Content-Disposition: form-data; name="fileupload"; filename="playlist2020+2021.m3u"
+Content-Type: audio/x-mpegurl
+
+#EXTM3U
+#EXTINF:0,Camila Cabello - Havana (Audio) ft. Young Thug [720p].mp4
+2020/Camila%20Cabello%20-%20Havana%20%28Audio%29%20ft.%20Young%20Thug%20%5B720p%5D.mp4
+#EXTINF:223,Clean Bandit - Solo feat Demi Lovato.webm
+2020/Clean%20Bandit%20-%20Solo%20feat%20Demi%20Lovato.webm
+#EXTINF:248,Dalida & Alain Delon - Paroles, paroles-_ifJapuqYiU.mp4
+2020/Dalida%20%26%20Alain%20Delon%20-%20Paroles%2C%20paroles-_ifJapuqYiU.mp4
+#EXTINF:224,Dua Lipa - New Rules (Official Music Video) [720p].mp4
+2020/Dua%20Lipa%20-%20New%20Rules%20%28Official%20Music%20Video%29%20%5B720p%5D.mp4
+#EXTINF:168,El Profesor - Bella Ciao (Hugel Remix).mp4
+2020/El%20Profesor%20-%20Bella%20Ciao%20%28Hugel%20Remix%29.mp4
+#EXTINF:219,Imagine Dragons - Whatever It Takes [720p].mp4
+2020/Imagine%20Dragons%20-%20Whatever%20It%20Takes%20%5B720p%5D.mp4
+#EXTINF:185,J Balvin, Willy William - Mi Gente (Official Video) [720p].mp4
+2020/J%20Balvin%2C%20Willy%20William%20-%20Mi%20Gente%20%28Official%20Video%29%20%5B720p%5D.mp4
+#EXTINF:259,John Lee Hooker - Boom Boom [HQ]-X70VMrH3yBg.mp4
+2020/John%20Lee%20Hooker%20-%20Boom%20Boom%20%5BHQ%5D-X70VMrH3yBg.mp4
+#EXTINF:219,Josh. - Cordula Grün.mp4
+2020/Josh.%20-%20Cordula%20Gru%CC%88n.mp4
+#EXTINF:126,Juliane Werding - Am Tag, als Conny Kramer starb-goaN_AVi2zA.mp4
+2020/Juliane%20Werding%20-%20Am%20Tag%2C%20als%20Conny%20Kramer%20starb-goaN_AVi2zA.mp4
+#EXTINF:237,KONGOS - Come with Me Now [720p].mp4
+2020/KONGOS%20-%20Come%20with%20Me%20Now%20%5B720p%5D.mp4
+#EXTINF:241,Kygo, Selena Gomez - It Ain't Me [720p].mp4
+2020/Kygo%2C%20Selena%20Gomez%20-%20It%20Ain%27t%20Me%20%5B720p%5D.mp4
+#EXTINF:194,Low Rider Video-WeKw6c9aTJ0.mp4
+2020/Low%20Rider%20Video-WeKw6c9aTJ0.mp4
+#EXTINF:208,Bilderbuch-Maschin.mp4
+2021/Bilderbuch-Maschin.mp4
+#EXTINF:410,Sea Shanty - Wellerman.mp4
+2021/Sea%20Shanty%20-%20Wellerman.mp4
+#EXTINF:211,Texta-Sprachbarrieren.mp4
+2021/Texta-Sprachbarrieren.mp4
+#EXTINF:134,The Wellerman (Sea Shanty).mp4
+2021/The%20Wellerman%20%28Sea%20Shanty%29.mp4
+#EXTINF:270,Mark Ronson - Uptown Funk ft. Bruno Mars [720p].mp4
+2020/Mark%20Ronson%20-%20Uptown%20Funk%20ft.%20Bruno%20Mars%20%5B720p%5D.mp4
+#EXTINF:213,Maroon 5 - What Lovers Do ft. SZA [720p].mp4
+2020/Maroon%205%20-%20What%20Lovers%20Do%20ft.%20SZA%20%5B720p%5D.mp4
+#EXTINF:208,Mathea - 2x.mp4
+2020/Mathea%20-%202x.mp4
+#EXTINF:243,Natalie Imbruglia - Torn.mp4
+2020/Natalie%20Imbruglia%20-%20Torn.mp4
+#EXTINF:167,Ofenbach vs. Nick Waterhouse - Katchi (Official Video) [720p].mp4
+2020/Ofenbach%20vs.%20Nick%20Waterhouse%20-%20Katchi%20%28Official%20Video%29%20%5B720p%5D.mp4
+#EXTINF:360,Pink Floyd - Another Brick In The Wall (HQ) [360p].webm
+2020/Pink%20Floyd%20-%20Another%20Brick%20In%20The%20Wall%20%28HQ%29%20%5B360p%5D.webm
+#EXTINF:175,Plastic Bertrand - Ca Plane Pour Moi [360p].mp4
+2020/Plastic%20Bertrand%20-%20Ca%20Plane%20Pour%20Moi%20%5B360p%5D.mp4
+#EXTINF:196,Purple Disco Machine - Devil In Me (feat. Joe Killington & Duane Harden) (Official Video) [720p].mp4
+2020/Purple%20Disco%20Machine%20-%20Devil%20In%20Me%20%28feat.%20Joe%20Killington%20%26%20Duane%20Harden%29%20%28Official%20Video%29%20%5B720p%5D.mp4
+#EXTINF:272,Queen & Annie Lennox  & David Bowie - Under Pressure - HD-fCP2-Bfhy04.mp4
+2020/Queen%20%26%20Annie%20Lennox%20%20%26%20David%20Bowie%20-%20Under%20Pressure%20-%20HD-fCP2-Bfhy04.mp4
+#EXTINF:243,Queen & David Bowie - Under Pressure (Classic Queen Mix)-YoDh_gHDvkk.mp4
+2020/Queen%20%26%20David%20Bowie%20-%20Under%20Pressure%20%28Classic%20Queen%20Mix%29-YoDh_gHDvkk.mp4
+#EXTINF:366,Queen - Bohemian Rhapsody (Official Video) [360p].mp4
+2020/Queen%20-%20Bohemian%20Rhapsody%20%28Official%20Video%29%20%5B360p%5D.mp4
+#EXTINF:268,Sarah Connor - Vincent (Offizielles Musikvideo)-qkrrqTEH_zg.mp4
+2020/Sarah%20Connor%20-%20Vincent%20%28Offizielles%20Musikvideo%29-qkrrqTEH_zg.mp4
+#EXTINF:247,Seiler und Speer - Oft host a Pech.mp4
+2020/Seiler%20und%20Speer%20-%20Oft%20host%20a%20Pech.mp4
+#EXTINF:237,Shawn Mendes - There's Nothing Holdin' Me Back [720p].mp4
+2020/Shawn%20Mendes%20-%20There%27s%20Nothing%20Holdin%27%20Me%20Back%20%5B720p%5D.mp4
+#EXTINF:272,Shipping Up To Boston _ Enter Sandman - Bagpipe Cover (Goddesses of Bagpipe) [720p].mp4
+2020/Shipping%20Up%20To%20Boston%20_%20Enter%20Sandman%20-%20Bagpipe%20Cover%20%28Goddesses%20of%20Bagpipe%29%20%5B720p%5D.mp4
+#EXTINF:278,Sting - Shape of My Heart (Leon)-QK-Z1K67uaA.mp4
+2020/Sting%20-%20Shape%20of%20My%20Heart%20%28Leon%29-QK-Z1K67uaA.mp4
+#EXTINF:240,Sweet - The Ballroom Blitz (Official Video) [360p].webm
+2020/Sweet%20-%20The%20Ballroom%20Blitz%20%28Official%20Video%29%20%5B360p%5D.webm
+#EXTINF:281,Sweet Home Alabama Lynyrd Skynyrd [360p].mp4
+2020/Sweet%20Home%20Alabama%20Lynyrd%20Skynyrd%20%5B360p%5D.mp4
+#EXTINF:258,The Animals - The House of the Rising Sun [360p].webm
+2020/The%20Animals%20-%20The%20House%20of%20the%20Rising%20Sun%20%5B360p%5D.webm
+#EXTINF:202,The Bangles - Walk Like an Egyptian (Video Version) [360p].mp4
+2020/The%20Bangles%20-%20Walk%20Like%20an%20Egyptian%20%28Video%20Version%29%20%5B360p%5D.mp4
+#EXTINF:549,The Blues Brothers - John Lee Hooker e Aretha Franklin [360p].mp4
+2020/The%20Blues%20Brothers%20-%20John%20Lee%20Hooker%20e%20Aretha%20Franklin%20%5B360p%5D.mp4
+#EXTINF:209,The BossHoss - Don't Gimme That [360p].mp4
+2020/The%20BossHoss%20-%20Don%27t%20Gimme%20That%20%5B360p%5D.mp4
+#EXTINF:247,The Chainsmokers & Coldplay - Something Just Like This (Lyric) [720p].mp4
+2020/The%20Chainsmokers%20%26%20Coldplay%20-%20Something%20Just%20Like%20This%20%28Lyric%29%20%5B720p%5D.mp4
+#EXTINF:252,The Dead South   In Hell I'll Be in Good Company Lyrics [720p].mp4
+2020/The%20Dead%20South%20%20%20In%20Hell%20I%27ll%20Be%20in%20Good%20Company%20Lyrics%20%5B720p%5D.mp4
+#EXTINF:139,The Offspring - I Wanna Be Sedated-_A7I7cq72qg.mp4
+2020/The%20Offspring%20-%20I%20Wanna%20Be%20Sedated-_A7I7cq72qg.mp4
+#EXTINF:178,The Rats Are Back - Liebe Ist Bitter (Audio) [720p].mp4
+2020/The%20Rats%20Are%20Back%20-%20Liebe%20Ist%20Bitter%20%28Audio%29%20%5B720p%5D.mp4
+#EXTINF:226,The Rolling Stones - Paint It, Black (Official Lyric Video) [720p].mp4
+2020/The%20Rolling%20Stones%20-%20Paint%20It%2C%20Black%20%28Official%20Lyric%20Video%29%20%5B720p%5D.mp4
+#EXTINF:418,The Temptations   Papa Was A Rolling Stone 1972 Single Version [360p].mp4
+2020/The%20Temptations%20%20%20Papa%20Was%20A%20Rolling%20Stone%201972%20Single%20Version%20%5B360p%5D.mp4
+#EXTINF:239,The White Stripes - 'Seven Nation Army' [360p].mp4
+2020/The%20White%20Stripes%20-%20%27Seven%20Nation%20Army%27%20%5B360p%5D.mp4
+#EXTINF:230,The White Stripes-Jolene [360p].mp4
+2020/The%20White%20Stripes-Jolene%20%5B360p%5D.mp4
+#EXTINF:198,TONES AND I - JOHNNY RUN AWAY.mp4
+2020/TONES%20AND%20I%20-%20JOHNNY%20RUN%20AWAY.mp4
+#EXTINF:225,twenty one pilots_ Stressed Out [OFFICIAL VIDEO] [720p].mp4
+2020/twenty%20one%20pilots_%20Stressed%20Out%20%5BOFFICIAL%20VIDEO%5D%20%5B720p%5D.mp4
+#EXTINF:235,Wanda - Columbo (Official Video) [720p].mp4
+2020/Wanda%20-%20Columbo%20%28Official%20Video%29%20%5B720p%5D.mp4
+#EXTINF:193,Wenn du denkst du denkst, dann denkst du nur du denkst (ZDF Disco 08.11.1975) (VOD)-sCJu71JxmbE.mp4
+2020/Wenn%20du%20denkst%20du%20denkst%2C%20dann%20denkst%20du%20nur%20du%20denkst%20%28ZDF%20Disco%2008.11.1975%29%20%28VOD%29-sCJu71JxmbE.mp4
+#EXTINF:205,Billie Eilish - bad guy.mp4
+2020/Billie%20Eilish%20-%20bad%20guy.mp4
+#EXTINF:175,Bomba Estéreo - Soy Yo.mp4
+2020/Bomba%20Este%CC%81reo%20-%20Soy%20Yo.mp4
+#EXTINF:161,Dance Monkey Tones And I - Allie Sherlock Cover.mp4
+2020/Dance%20Monkey%20Tones%20And%20I%20-%20Allie%20Sherlock%20Cover.mp4
+#EXTINF:295,Hindi Zahra - Stand Up.mp4
+2020/Hindi%20Zahra%20-%20Stand%20Up.mp4
+#EXTINF:262,Hubert von Goisern und Die Alpinkatzen - Heast as net.mp4
+2020/Hubert%20von%20Goisern%20und%20Die%20Alpinkatzen%20-%20Heast%20as%20net.mp4
+#EXTINF:214,Indila - Dernière Danse.mp4
+2020/Indila%20-%20Dernie%CC%80re%20Danse.mp4
+#EXTINF:157,Lil Nas X - Old Town Road ft. Billy Ray Cyrus.mp4
+2020/Lil%20Nas%20X%20-%20Old%20Town%20Road%20ft.%20Billy%20Ray%20Cyrus.mp4
+#EXTINF:149,Louis Armstrong - What a wonderful world 1967.mp4
+2020/Louis%20Armstrong%20-%20What%20a%20wonderful%20world%201967.mp4
+#EXTINF:136,Marie Laforet - Ivan, Boris et moi 1967.mp4
+2020/Marie%20Laforet%20-%20Ivan%2C%20Boris%20et%20moi%201967.mp4
+#EXTINF:234,Marshmello & Anne- Marie - Friends.mp4
+2020/Marshmello%20%26%20Anne-%20Marie%20-%20Friends.mp4
+#EXTINF:180,Mathea - Chaos.mp4
+2020/Mathea%20-%20Chaos.mp4
+#EXTINF:192,Phantom Planet - California.mp4
+2020/Phantom%20Planet%20-%20California.mp4
+#EXTINF:226,Pop Tops - Mamy Blue 1971.mp4
+2020/Pop%20Tops%20-%20Mamy%20Blue%201971.mp4
+#EXTINF:212,SEEED - GELD.mp4
+2020/SEEED%20-%20GELD.mp4
+#EXTINF:227,The Killers - Mr. Brightside [360p].mp4
+2020/The%20Killers%20-%20Mr.%20Brightside%20%5B360p%5D.mp4
+#EXTINF:236,TONES AND I - DANCE MONKEY.mp4
+2020/TONES%20AND%20I%20-%20DANCE%20MONKEY.mp4
+#EXTINF:376,Tones And I nye in Byron bay.mp4
+2020/Tones%20And%20I%20nye%20in%20Byron%20bay.mp4
+#EXTINF:178,ZAZ - Je veux (Live).mp4
+2020/ZAZ%20-%20Je%20veux%20%28Live%29.mp4
+#EXTINF:182,ZAZ – Qué vendrá.mp4
+2020/ZAZ%20%E2%80%93%20Que%CC%81%20vendra%CC%81.mp4
+
+-----------------------------234563727721923431121931855609--
