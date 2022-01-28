@@ -7,4 +7,25 @@ Content-Disposition: form-data; name="field-name"; filename="file.txt"
 < ./relative/path/to/local_file.txt
 --WebAppBoundary--
 
+### Binärfile
+
+POST http://localhost:8080/upload4?filename=doggiepic.jpeg
+Content-Type: application/octet-stream
+
+< ./doggie.jpeg
+
+### Textfile
+
+
+POST http://localhost:8080/upload4?filename=textfile.txt
+Content-Type: application/octet-stream
+
+< ./requests.http
+
 ###
+
+
+
+
+
+
