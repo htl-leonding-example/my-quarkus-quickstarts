@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="webjars/htmx.org/1.6.1/dist/htmx.min.js"></script>
+</head>
+<body>
+<p>
+    <p>
+        <label for="fileupload">File upload</label>
+        <input type="file" name="file" id="fileupload">
+    </p>
+    <input type="button" value="Upload File" onclick="uploadFile()">
+</p>
+<script>
+    async function uploadFile() {
+        let fileToUpload = document.getElementById('fileupload').files[0];
+        console.log(fileToUpload.name);
+        // { name: "2122-5ahif-beeyond-thumbnail.jpg", lastModified: 1642845881457, webkitRelativePath: "", size: 101485, type: "image/jpeg" }
+
+        // https://stackoverflow.com/questions/62923336/how-to-convert-html-input-type-file-to-a-octet-stream
+        const response = await fetch("upload4?filename="+fileToUpload.name, {
+            method: "POST",
+            headers: {'Content-Type': 'application/octet-stream'},
+            body: fileToUpload
+        });
+        console.log(response.status)
+    }
+</script>
+</body>
+</html>
