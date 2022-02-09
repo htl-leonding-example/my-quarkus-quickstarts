@@ -7,3 +7,8 @@
    - open `cors-test.html` in browser
    - open console
 - if you want the testing with XMLHttpRequest -> https://github.com/njgibbon/nicks-cors-test
+
+## file-read
+
+- how to read one line from a file with streams
+- how to read all lines from a file with streams
