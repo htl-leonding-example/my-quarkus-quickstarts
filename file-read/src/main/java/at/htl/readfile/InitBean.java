@@ -32,7 +32,7 @@ public class InitBean {
                         log.info(elements[1]);
                         return elements[1].trim();
                     })
-                    .get();
+                    .orElseThrow();
         } catch (IOException e) {
             log.error(e.getMessage());
         }
