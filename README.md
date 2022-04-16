@@ -12,3 +12,11 @@
 
 - how to read one line from a file with streams
 - how to read all lines from a file with streams
+
+## embedded id
+
+- how to use a composite primary key
+- example w/
+  - @EmbeddedId
+  - @Embeddable
+  - @MapsId
