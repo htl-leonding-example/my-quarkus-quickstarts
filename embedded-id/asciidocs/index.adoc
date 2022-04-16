@@ -1,0 +1,17 @@
+= EmbeddableId
+Thomas W. Stütz <t.stuetz@htl-leonding.ac.at>
+1.0, 16-04-2022: AsciiDoc article template
+:toc:
+:icons: font
+:url-quickref: https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
+:imagesdir: images
+
+[plantuml,cld,svg]
+----
+include::plantuml/cld.puml[]
+----
+
+[plantuml,erd,svg]
+----
+include::plantuml/erd.puml[]
+----

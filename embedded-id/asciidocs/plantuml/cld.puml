@@ -1,0 +1,29 @@
+@startuml
+    !theme plain
+    class Vehicle {
+      -id: Long <<PK>>
+      -brand: String
+      -model: String
+    }
+    class Person {
+      -id: Long <<PK>>
+      -firstName: String
+      -lastName: String
+    }
+    class Registration {
+      -registrationId: RegistrationId <<PK>>
+      -person Person
+      -vehicle Vehicle
+      -registrationPlate: String
+      -startDate: LocalDate
+      -endDate: LocalDate
+    }
+    class RegistrationId {
+        -vehicleId : Long
+        -personId : Long
+    }
+
+    Vehicle <-left- Registration
+    Person <-right- Registration
+    Registration <-- RegistrationId
+@enduml

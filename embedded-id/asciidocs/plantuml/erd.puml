@@ -1,0 +1,24 @@
+@startuml
+!theme plain
+    entity Vehicle {
+      id : number <<generated>>
+      --
+      brand : varchar
+      model : varchar
+    }
+    entity Person {
+      id : number <<generated>>
+      --
+      first_name : varchar
+      last_name : varchar
+    }
+    entity Registration {
+      vehicle_id : number <<FK>>
+      person_id :: number <<FK>>
+      --
+      registration_plate varchar
+    }
+    Person ||-right-o{ Registration
+    Vehicle ||-left-o{ Registration
+
+@enduml
